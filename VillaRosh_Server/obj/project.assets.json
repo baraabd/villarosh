@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/baraabdullatif/Projects/VillaRosh/VillaRosh_Server/VillaRosh_Server.csproj",
+      "projectUniqueName": "/Users/baraabdullatif/Projects/villaroshWebSite/VillaRosh_Server/VillaRosh_Server.csproj",
       "projectName": "VillaRosh_Server",
-      "projectPath": "/Users/baraabdullatif/Projects/VillaRosh/VillaRosh_Server/VillaRosh_Server.csproj",
+      "projectPath": "/Users/baraabdullatif/Projects/villaroshWebSite/VillaRosh_Server/VillaRosh_Server.csproj",
       "packagesPath": "/Users/baraabdullatif/.nuget/packages/",
-      "outputPath": "/Users/baraabdullatif/Projects/VillaRosh/VillaRosh_Server/obj/",
+      "outputPath": "/Users/baraabdullatif/Projects/villaroshWebSite/VillaRosh_Server/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/baraabdullatif/.config/NuGet/NuGet.Config"
