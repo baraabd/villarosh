@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{A325058C-032C-44A7-ABBF-71AA764DE4AF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VillaRosh_Server/Pages/FetchData.razor">
+    <Files>
+      <File FileName="VillaRosh_Server/appsettings.json" Line="6" Column="1" />
+      <File FileName="VillaRosh_Server/Startup.cs" Line="32" Column="13" />
+      <File FileName="VillaRosh_Server/Pages/FetchData.razor" Line="40" Column="5" />
+      <File FileName="VillaRosh_Server/obj/Debug/net5.0/RazorDeclaration/Pages/FetchData.razor.g.cs" Line="113" Column="75" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VillaRosh" expanded="True">
+            <Node name="VillaRosh_Server" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="FetchData.razor" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.VillaRosh__Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

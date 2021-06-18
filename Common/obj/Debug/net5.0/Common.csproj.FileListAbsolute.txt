@@ -1,0 +1,12 @@
+/Users/baraabdullatif/Projects/villaroshWebSite/Common/bin/Debug/net5.0/Common.deps.json
+/Users/baraabdullatif/Projects/villaroshWebSite/Common/bin/Debug/net5.0/Common.dll
+/Users/baraabdullatif/Projects/villaroshWebSite/Common/bin/Debug/net5.0/ref/Common.dll
+/Users/baraabdullatif/Projects/villaroshWebSite/Common/bin/Debug/net5.0/Common.pdb
+/Users/baraabdullatif/Projects/villaroshWebSite/Common/obj/Debug/net5.0/Common.csproj.AssemblyReference.cache
+/Users/baraabdullatif/Projects/villaroshWebSite/Common/obj/Debug/net5.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baraabdullatif/Projects/villaroshWebSite/Common/obj/Debug/net5.0/Common.AssemblyInfoInputs.cache
+/Users/baraabdullatif/Projects/villaroshWebSite/Common/obj/Debug/net5.0/Common.AssemblyInfo.cs
+/Users/baraabdullatif/Projects/villaroshWebSite/Common/obj/Debug/net5.0/Common.csproj.CoreCompileInputs.cache
+/Users/baraabdullatif/Projects/villaroshWebSite/Common/obj/Debug/net5.0/Common.dll
+/Users/baraabdullatif/Projects/villaroshWebSite/Common/obj/Debug/net5.0/ref/Common.dll
+/Users/baraabdullatif/Projects/villaroshWebSite/Common/obj/Debug/net5.0/Common.pdb

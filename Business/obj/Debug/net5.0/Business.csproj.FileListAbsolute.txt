@@ -1,0 +1,12 @@
+/Users/baraabdullatif/Projects/villaroshWebSite/Business/bin/Debug/net5.0/Business.deps.json
+/Users/baraabdullatif/Projects/villaroshWebSite/Business/bin/Debug/net5.0/Business.dll
+/Users/baraabdullatif/Projects/villaroshWebSite/Business/bin/Debug/net5.0/ref/Business.dll
+/Users/baraabdullatif/Projects/villaroshWebSite/Business/bin/Debug/net5.0/Business.pdb
+/Users/baraabdullatif/Projects/villaroshWebSite/Business/obj/Debug/net5.0/Business.csproj.AssemblyReference.cache
+/Users/baraabdullatif/Projects/villaroshWebSite/Business/obj/Debug/net5.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baraabdullatif/Projects/villaroshWebSite/Business/obj/Debug/net5.0/Business.AssemblyInfoInputs.cache
+/Users/baraabdullatif/Projects/villaroshWebSite/Business/obj/Debug/net5.0/Business.AssemblyInfo.cs
+/Users/baraabdullatif/Projects/villaroshWebSite/Business/obj/Debug/net5.0/Business.csproj.CoreCompileInputs.cache
+/Users/baraabdullatif/Projects/villaroshWebSite/Business/obj/Debug/net5.0/Business.dll
+/Users/baraabdullatif/Projects/villaroshWebSite/Business/obj/Debug/net5.0/ref/Business.dll
+/Users/baraabdullatif/Projects/villaroshWebSite/Business/obj/Debug/net5.0/Business.pdb

@@ -13,78 +13,71 @@ namespace VillaRosh_Server.Pages
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "/Users/baraabdullatif/Projects/VillaRosh/VillaRosh_Server/_Imports.razor"
+#line 1 "/Users/baraabdullatif/Projects/villaroshWebSite/VillaRosh_Server/_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "/Users/baraabdullatif/Projects/VillaRosh/VillaRosh_Server/_Imports.razor"
+#line 2 "/Users/baraabdullatif/Projects/villaroshWebSite/VillaRosh_Server/_Imports.razor"
 using Microsoft.AspNetCore.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "/Users/baraabdullatif/Projects/VillaRosh/VillaRosh_Server/_Imports.razor"
+#line 3 "/Users/baraabdullatif/Projects/villaroshWebSite/VillaRosh_Server/_Imports.razor"
 using Microsoft.AspNetCore.Components.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "/Users/baraabdullatif/Projects/VillaRosh/VillaRosh_Server/_Imports.razor"
+#line 4 "/Users/baraabdullatif/Projects/villaroshWebSite/VillaRosh_Server/_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "/Users/baraabdullatif/Projects/VillaRosh/VillaRosh_Server/_Imports.razor"
+#line 5 "/Users/baraabdullatif/Projects/villaroshWebSite/VillaRosh_Server/_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "/Users/baraabdullatif/Projects/VillaRosh/VillaRosh_Server/_Imports.razor"
+#line 6 "/Users/baraabdullatif/Projects/villaroshWebSite/VillaRosh_Server/_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "/Users/baraabdullatif/Projects/VillaRosh/VillaRosh_Server/_Imports.razor"
+#line 7 "/Users/baraabdullatif/Projects/villaroshWebSite/VillaRosh_Server/_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "/Users/baraabdullatif/Projects/VillaRosh/VillaRosh_Server/_Imports.razor"
+#line 8 "/Users/baraabdullatif/Projects/villaroshWebSite/VillaRosh_Server/_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "/Users/baraabdullatif/Projects/VillaRosh/VillaRosh_Server/_Imports.razor"
+#line 9 "/Users/baraabdullatif/Projects/villaroshWebSite/VillaRosh_Server/_Imports.razor"
 using VillaRosh_Server;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "/Users/baraabdullatif/Projects/VillaRosh/VillaRosh_Server/_Imports.razor"
+#line 10 "/Users/baraabdullatif/Projects/villaroshWebSite/VillaRosh_Server/_Imports.razor"
 using VillaRosh_Server.Shared;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
-#line 3 "/Users/baraabdullatif/Projects/VillaRosh/VillaRosh_Server/Pages/FetchData.razor"
-using VillaRosh_Server.Data;
 
 #line default
 #line hidden
@@ -97,20 +90,6 @@ using VillaRosh_Server.Data;
         {
         }
         #pragma warning restore 1998
-#nullable restore
-#line 39 "/Users/baraabdullatif/Projects/VillaRosh/VillaRosh_Server/Pages/FetchData.razor"
-       
-    private WeatherForecast[] forecasts;
-
-    protected override async Task OnInitializedAsync()
-    {
-        forecasts = await ForecastService.GetForecastAsync(DateTime.Now);
-    }
-
-#line default
-#line hidden
-#nullable disable
-        [global::Microsoft.AspNetCore.Components.InjectAttribute] private WeatherForecastService ForecastService { get; set; }
     }
 }
 #pragma warning restore 1591
