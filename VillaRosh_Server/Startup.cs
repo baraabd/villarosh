@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
+using VillaRosh_Server.Data_Access;
 
 namespace VillaRosh_Server
 {
@@ -28,8 +29,8 @@ namespace VillaRosh_Server
         {
             services.AddRazorPages();
             services.AddServerSideBlazor();
-            
-            
+            services.AddDbContext<ApplicationDbContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
         }
 

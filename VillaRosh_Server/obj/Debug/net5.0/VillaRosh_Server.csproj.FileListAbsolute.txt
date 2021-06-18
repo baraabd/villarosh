@@ -142,3 +142,5 @@
 /Users/baraabdullatif/Projects/villaroshWebSite/VillaRosh_Server/obj/Debug/net5.0/VillaRosh_Server.pdb
 /Users/baraabdullatif/Projects/villaroshWebSite/VillaRosh_Server/obj/Debug/net5.0/VillaRosh_Server.genruntimeconfig.cache
 /Users/baraabdullatif/Projects/villaroshWebSite/VillaRosh_Server/obj/Debug/net5.0/VillaRosh_Server.csproj.AssemblyReference.cache
+/Users/baraabdullatif/Projects/villaroshWebSite/VillaRosh_Server/bin/Debug/net5.0/Humanizer.dll
+/Users/baraabdullatif/Projects/villaroshWebSite/VillaRosh_Server/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll

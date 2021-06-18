@@ -1,19 +1,22 @@
 ﻿<Properties StartupConfiguration="{A325058C-032C-44A7-ABBF-71AA764DE4AF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="VillaRosh_Server/Pages/FetchData.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="VillaRosh_Server/appsettings.json">
     <Files>
-      <File FileName="VillaRosh_Server/appsettings.json" Line="6" Column="1" />
-      <File FileName="VillaRosh_Server/Startup.cs" Line="32" Column="13" />
-      <File FileName="VillaRosh_Server/Pages/FetchData.razor" Line="40" Column="5" />
-      <File FileName="VillaRosh_Server/obj/Debug/net5.0/RazorDeclaration/Pages/FetchData.razor.g.cs" Line="113" Column="75" />
+      <File FileName="VillaRosh_Server/appsettings.json" Line="4" Column="68" />
+      <File FileName="VillaRosh_Server/Startup.cs" Line="33" Column="91" />
+      <File FileName="VillaRosh_Server/Data_Access/ApplicationDbContext.cs" Line="4" Column="1" />
+      <File FileName="Models/HotelRoom.cs" Line="7" Column="1" />
+      <File FileName="VillaRosh_Server/Data_Access/Data/HotelRoom.cs" Line="27" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="VillaRosh" expanded="True">
+            <Node name="Models" expanded="True" />
             <Node name="VillaRosh_Server" expanded="True">
-              <Node name="Pages" expanded="True">
-                <Node name="FetchData.razor" selected="True" />
+              <Node name="Data_Access" expanded="True">
+                <Node name="Data" expanded="True" />
               </Node>
+              <Node name="appsettings.json" selected="True" />
             </Node>
           </Node>
         </State>
